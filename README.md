@@ -22,6 +22,6 @@ Busca el archivo index.html y ábrelo en tu navegador web.
 
 Ingresa los nombres de tus amigos y realiza el sorteo.
 
-✨ Autor Abrahan Albarran Proyecto desarrollado con la finalidad de poner en práctica lo aprendido en el curso Lógica de Programación impartido por Alura Latam.
+✨ Autor  curso Lógica de Programación impartido por Alura Latam.
 
 📄 Licencia Este proyecto está bajo la licencia MIT.
